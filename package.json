@@ -19,6 +19,7 @@
     "react-bootstrap": "^1.4.0",
     "react-dom": "16.8.4",
     "react-scripts": "^4.0.1",
+    "solc": "^0.5.0",
     "truffle": "^5.1.59",
     "web3": "1.0.0-beta.55"
   },
